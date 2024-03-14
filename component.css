@@ -1,0 +1,29 @@
+*{
+    font-size: 16px;
+}
+.card{
+    padding: 10px;
+   
+}
+
+.card-title{
+    font-size: 16px;
+}
+
+/* button{
+    background-color: grey;
+    color: white;
+} */
+button{
+    color: 'black';
+     border: '1px solid black' ;
+}  
+.header{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.viewcart{
+    margin-right: 0;
+}
